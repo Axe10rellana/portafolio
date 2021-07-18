@@ -381,7 +381,8 @@ p {
   fill: var(--first-color);
 }
 
-.modal[id|="movieapp"]:target {
+.modal[id="movieapp"]:target,
+.modal[id="weatherapp"]:target {
   opacity: 1;
   pointer-events: auto;
 }
