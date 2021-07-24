@@ -387,7 +387,8 @@ p {
 
 .modal[id="movieapp"]:target,
 .modal[id="weatherapp"]:target,
-.modal[id="galeryapp"]:target {
+.modal[id="galeryapp"]:target,
+.modal[id="calculadora"]:target {
   opacity: 1;
   pointer-events: auto;
 }
