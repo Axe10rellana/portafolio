@@ -389,7 +389,8 @@ p {
 .modal[id="weatherapp"]:target,
 .modal[id="galeryapp"]:target,
 .modal[id="calculadora"]:target,
-.modal[id="searchapp"]:target {
+.modal[id="searchapp"]:target,
+.modal[id="generadordenombres"]:target {
   opacity: 1;
   pointer-events: auto;
 }
@@ -614,7 +615,7 @@ progress::-moz-progress-bar {
 .portfolio-modal {
   display: flex;
   flex-direction: column;
-  max-width: 320px;
+  max-width: 340px;
   background-color: var(--white-color);
 }
 
