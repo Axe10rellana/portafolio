@@ -390,7 +390,8 @@ p {
 .modal[id="galeryapp"]:target,
 .modal[id="calculadora"]:target,
 .modal[id="searchapp"]:target,
-.modal[id="generadordenombres"]:target {
+.modal[id="generadordenombres"]:target,
+.modal[id="tvshowsapp"]:target {
   opacity: 1;
   pointer-events: auto;
 }
