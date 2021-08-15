@@ -393,7 +393,8 @@ p {
 .modal[id="generadordenombres"]:target,
 .modal[id="tvshowsapp"]:target,
 .modal[id="generadordepasswords"]:target,
-.modal[id="todolistapp"]:target {
+.modal[id="todolistapp"]:target,
+.modal[id="clondegoogle"]:target {
   opacity: 1;
   pointer-events: auto;
 }
