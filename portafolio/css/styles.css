@@ -395,7 +395,8 @@ p {
 .modal[id="generadordepasswords"]:target,
 .modal[id="todolistapp"]:target,
 .modal[id="clondegoogle"]:target,
-.modal[id="cryptoapp"]:target {
+.modal[id="cryptoapp"]:target,
+.modal[id="clondegmail"]:target {
   opacity: 1;
   pointer-events: auto;
 }
