@@ -396,7 +396,13 @@ p {
 .modal[id="todolistapp"]:target,
 .modal[id="clondegoogle"]:target,
 .modal[id="cryptoapp"]:target,
-.modal[id="clondegmail"]:target {
+.modal[id="clondegmail"]:target,
+.modal[id="interfazPlataformaCursos"]:target,
+.modal[id="interfazViajes"]:target,
+.modal[id="interfazPostres"]:target,
+.modal[id="interfazIdeas"]:target,
+.modal[id="interfazCafes"]:target,
+.modal[id="interfazArticulos"]:target {
   opacity: 1;
   pointer-events: auto;
 }
