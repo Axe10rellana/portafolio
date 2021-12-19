@@ -402,7 +402,8 @@ p {
 .modal[id="interfazPostres"]:target,
 .modal[id="interfazIdeas"]:target,
 .modal[id="interfazCafes"]:target,
-.modal[id="interfazArticulos"]:target {
+.modal[id="interfazArticulos"]:target,
+.modal[id="interfazModernUiUxGpt3"]:target {
   opacity: 1;
   pointer-events: auto;
 }
