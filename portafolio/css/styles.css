@@ -403,7 +403,8 @@ p {
 .modal[id="interfazIdeas"]:target,
 .modal[id="interfazCafes"]:target,
 .modal[id="interfazArticulos"]:target,
-.modal[id="interfazModernUiUxGpt3"]:target {
+.modal[id="interfazModernUiUxGpt3"]:target,
+.modal[id="expensetrackerapp"]:target {
   opacity: 1;
   pointer-events: auto;
 }
