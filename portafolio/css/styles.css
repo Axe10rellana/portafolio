@@ -406,7 +406,8 @@ p {
 .modal[id="interfazModernUiUxGpt3"]:target,
 .modal[id="expensetrackerapp"]:target,
 .modal[id="realEstateApp"]:target,
-.modal[id="interfazGerichtRestaurantApp"]:target {
+.modal[id="interfazGerichtRestaurantApp"]:target,
+.modal[id="graphCmsBlog"]:target {
   opacity: 1;
   pointer-events: auto;
 }
