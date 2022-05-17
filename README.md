@@ -1,6 +1,6 @@
 # Portafolio
 
-Repositorio de mi portafolio como desarrollador front-end donde subire
+Repositorio de mi portafolio como desarrollador FrontEnd donde subire
 mis proyectos
 
 ![](portafolio/assets/hero-image-home.jpg)
