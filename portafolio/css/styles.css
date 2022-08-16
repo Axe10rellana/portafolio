@@ -405,7 +405,8 @@ p {
 .modal[id="huluCloneApp"]:target,
 .modal[id="interfazPlataformaCursos"]:target,
 .modal[id="interfazModernUiUxGpt3"]:target,
-.modal[id="interfazGerichtRestaurantApp"]:target {
+.modal[id="interfazGerichtRestaurantApp"]:target,
+.modal[id="interfazBankModernApp"]:target {
   opacity: 1;
   pointer-events: auto;
 }

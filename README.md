@@ -1,9 +1,19 @@
 # Portafolio
 
-Repositorio de mi portafolio como desarrollador FrontEnd donde subire
+Repositorio de mi portafolio como desarrollador FrontEnd donde subiré
 mis proyectos
 
-![](portafolio/assets/hero-image-home.jpg)
+---
+
+## Vista En Versión Desktop
+
+![Vista_En_Versión_Desktop](portafolio/assets/desktopScreen.png)
+
+## Vista En Versión Mobile
+
+![Vista_En_Versión_Mobile](portafolio/assets/mobileScreen.png)
+
+---
 
 ## Proyectos
 
