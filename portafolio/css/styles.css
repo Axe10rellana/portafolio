@@ -389,6 +389,10 @@ p {
   display: none;
 }
 
+.pointer-events-none {
+  pointer-events: none;
+}
+
 .rounded {
   border-radius: 50%;
 }
@@ -405,6 +409,10 @@ p {
   width: 250px;
   text-align: center;
   color: var(--title-color);
+}
+
+.select-none {
+  user-select: none;
 }
 
 .text-first-color {
