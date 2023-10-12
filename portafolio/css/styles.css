@@ -263,16 +263,20 @@ p {
   position: relative;
 }
 
-.progress {
-  margin: 1rem -1rem;
-  overflow-x: hidden;
+/* TECNOLOGIES */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
 }
 
-.progress>p {
-  margin: 0;
+.grid-row {
   display: flex;
-  justify-content: space-between;
-  font-size: 0.85rem;
+  flex-wrap: wrap;
+}
+
+.grid-row img {
+  width: 100%;
 }
 
 /* CAROUSEL */
@@ -316,10 +320,15 @@ p {
   z-index: 99;
   text-align: center;
   line-height: 44px;
-  background: var(--third-color);
+  background-color: var(--third-color);
   border-radius: 50%;
   transform: translateY(-50%);
-  transition: transform 0.1s linear;
+  transition: all 0.5s ease;
+}
+
+.wrapper i:hover,
+.wrapper2 i:hover {
+  background-color: var(--first-color);
 }
 
 .wrapper i:active,
@@ -565,6 +574,12 @@ p {
 }
 
 @media screen and (min-width: 1024px) {
+  .about {
+    display: grid;
+    grid-template-columns: repeat(2, 40%);
+    justify-content: space-between;
+    align-content: center;
+  }
 
   .carousel img,
   .carousel2 img {
