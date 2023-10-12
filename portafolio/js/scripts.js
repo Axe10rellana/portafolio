@@ -147,6 +147,7 @@ function getData(containerElement, loadingSelector, data) {
     }, 1000);
   });
 
+  projectElements.reverse();
   projectElements.forEach((element) => {
     container.appendChild(element);
   });
