@@ -293,8 +293,7 @@ p {
 
 .carousel img,
 .carousel2 img {
-  height: 340px;
-  object-fit: cover;
+  height: 240px;
   user-select: none;
   margin-left: 14px;
   width: 100%;
