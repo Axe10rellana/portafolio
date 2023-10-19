@@ -270,15 +270,6 @@ p {
   gap: 10px;
 }
 
-.grid-row {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.grid-row img {
-  width: 100%;
-}
-
 /* CAROUSEL */
 .carousel.dragging,
 .carousel2.dragging {
@@ -303,7 +294,11 @@ p {
 .wrapper,
 .wrapper2 {
   display: flex;
-  max-width: 1200px;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: var(--max-width);
   position: relative;
 }
 
@@ -405,6 +400,10 @@ p {
   align-items: center;
 }
 
+.img-full {
+  width: 100%;
+}
+
 .logo a {
   color: var(--first-color);
   font-weight: bold;
@@ -487,7 +486,8 @@ p {
 }
 
 .section {
-  padding: 2rem 2rem;
+  padding: 2rem;
+  text-align: center;
 }
 
 .section-title {

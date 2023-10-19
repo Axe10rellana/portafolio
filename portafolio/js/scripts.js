@@ -107,6 +107,11 @@ const interfaces = [
     imgSrc: "assets/images/nikeClone.png",
     imgAlt: "Nike Clone",
   },
+  {
+    url: "https://axe10rellana-travel-app.netlify.app/",
+    imgSrc: "assets/images/travelApp.png",
+    imgAlt: "Travel App",
+  },
 ];
 
 /*** Get-Data ***/
