@@ -74,6 +74,11 @@ const projects = [
     imgSrc: "assets/images/weatherApp.png",
     imgAlt: "Weather App",
   },
+  {
+    url: "https://snapgram-nu.vercel.app/",
+    imgSrc: "assets/images/snapgram.png",
+    imgAlt: "Snapgram",
+  },
 ];
 
 const interfaces = [

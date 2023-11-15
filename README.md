@@ -7,11 +7,11 @@ mis proyectos
 
 ## Vista En Versión Desktop
 
-![Vista_En_Versión_Desktop](portafolio/assets/images/desktopScreen.png)
+![Vista_En_Versión_Desktop](portafolio/assets/design/desktop-design.png)
 
 ## Vista En Versión Mobile
 
-![Vista_En_Versión_Mobile](portafolio/assets/images/mobileScreen.png)
+![Vista_En_Versión_Mobile](portafolio/assets/design/mobile-design.png)
 
 ---
 
