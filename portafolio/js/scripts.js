@@ -117,6 +117,11 @@ const interfaces = [
     imgSrc: "assets/images/travelApp.png",
     imgAlt: "Travel App",
   },
+  {
+    url: "https://fmc-crowdfunding.netlify.app/",
+    imgSrc: "assets/images/crowdfund.png",
+    imgAlt: "Crowdfund",
+  },
 ];
 
 /*** Get-Data ***/
