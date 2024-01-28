@@ -118,7 +118,7 @@ const interfaces = [
     imgAlt: "Travel App",
   },
   {
-    url: "https://fmc-crowdfunding.netlify.app/",
+    url: "https://ui-crowdfund.netlify.app/",
     imgSrc: "assets/images/crowdfund.png",
     imgAlt: "Crowdfund",
   },
