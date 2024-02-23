@@ -122,6 +122,11 @@ const interfaces = [
     imgSrc: "assets/images/crowdfund.png",
     imgAlt: "Crowdfund",
   },
+  {
+    url: "https://loopstudios-ui.netlify.app/",
+    imgSrc: "assets/images/loopstudios.png",
+    imgAlt: "Loopstudios",
+  },
 ];
 
 /*** Get-Data ***/
