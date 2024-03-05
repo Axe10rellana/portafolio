@@ -127,6 +127,11 @@ const interfaces = [
     imgSrc: "assets/images/loopstudios.png",
     imgAlt: "Loopstudios",
   },
+  {
+    url: "https://ui-brainwave.netlify.app/",
+    imgSrc: "assets/images/brainwave.png",
+    imgAlt: "Brainwave",
+  },
 ];
 
 /*** Get-Data ***/
