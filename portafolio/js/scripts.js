@@ -56,13 +56,18 @@
 const projects = [
   {
     url: "https://Axe10rellana.github.io/tvshowsapp/tvshowsapp",
-    imgSrc: "assets/images/tvshowsapp.png",
+    imgSrc: "assets/images/tvshows.png",
     imgAlt: "Buscador de shows de TV",
   },
   {
     url: "https://axe10rellanaclondegoogle.netlify.app",
-    imgSrc: "assets/images/clondegoogle.png",
-    imgAlt: "Clon de Google",
+    imgSrc: "assets/images/googleClone.png",
+    imgAlt: "Google Clone",
+  },
+  {
+    url: "https://hulu-clone-app-ivory.vercel.app/",
+    imgSrc: "assets/images/huluClone.png",
+    imgAlt: "Hulu Clone",
   },
   {
     url: "https://react-youtube-clone-delta.vercel.app/",
@@ -71,7 +76,7 @@ const projects = [
   },
   {
     url: "https://axe10rellana-weather-app.netlify.app/",
-    imgSrc: "assets/images/weatherApp.png",
+    imgSrc: "assets/images/weather.png",
     imgAlt: "Weather App",
   },
   {
@@ -83,24 +88,19 @@ const projects = [
 
 const interfaces = [
   {
-    url: "https://hulu-clone-app-ivory.vercel.app/",
-    imgSrc: "assets/images/huluClone.png",
-    imgAlt: "Hulu Clone",
-  },
-  {
     url: "https://axe10rellanamodern-ui-ux-gpt3.netlify.app/",
-    imgSrc: "assets/images/interfazModernUiUxGpt3.png",
-    imgAlt: "interfaz Modern Ui-Ux Gpt3",
+    imgSrc: "assets/images/GPT3.png",
+    imgAlt: "GPT-3",
   },
   {
     url: "https://gericht-restaurant-app.vercel.app/",
-    imgSrc: "assets/images/interfazGerichtRestaurantApp.png",
-    imgAlt: "interfaz Gericht Restaurant App",
+    imgSrc: "assets/images/gericht.png",
+    imgAlt: "Gericht Restaurant",
   },
   {
     url: "https://bank-modern-app-two.vercel.app/",
-    imgSrc: "assets/images/interfazBankModernApp.png",
-    imgAlt: "interfaz Bank Modern App",
+    imgSrc: "assets/images/hooBank.png",
+    imgAlt: "HooBank",
   },
   {
     url: "https://modern-ui-metaversus.netlify.app/",
@@ -114,8 +114,18 @@ const interfaces = [
   },
   {
     url: "https://axe10rellana-travel-app.netlify.app/",
-    imgSrc: "assets/images/travelApp.png",
-    imgAlt: "Travel App",
+    imgSrc: "assets/images/hilink.png",
+    imgAlt: "Hilink",
+  },
+  {
+    url: "https://sunnyside-agency-ui.netlify.app/",
+    imgSrc: "assets/images/sunnyside.png",
+    imgAlt: " Sunnyside Agency",
+  },
+  {
+    url: "https://blogr-ui.netlify.app/",
+    imgSrc: "assets/images/blogr.png",
+    imgAlt: "Blogr",
   },
   {
     url: "https://ui-crowdfund.netlify.app/",
