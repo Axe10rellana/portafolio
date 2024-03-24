@@ -142,6 +142,11 @@ const interfaces = [
     imgSrc: "assets/images/brainwave.png",
     imgAlt: "Brainwave",
   },
+  {
+    url: "https://iphone-pro-ui.netlify.app/",
+    imgSrc: "assets/images/iphone.png",
+    imgAlt: "Iphone",
+  },
 ];
 
 /*** Get-Data ***/
