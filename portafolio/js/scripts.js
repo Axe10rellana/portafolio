@@ -75,11 +75,6 @@ const projects = [
     imgAlt: "Youtube Clone",
   },
   {
-    url: "https://axe10rellana-weather-app.netlify.app/",
-    imgSrc: "assets/images/weather.png",
-    imgAlt: "Weather App",
-  },
-  {
     url: "https://snapgram-nu.vercel.app/",
     imgSrc: "assets/images/snapgram.png",
     imgAlt: "Snapgram",
