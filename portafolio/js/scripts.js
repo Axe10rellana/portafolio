@@ -60,11 +60,6 @@ const projects = [
     imgAlt: "Buscador de shows de TV",
   },
   {
-    url: "https://axe10rellanaclondegoogle.netlify.app",
-    imgSrc: "assets/images/googleClone.png",
-    imgAlt: "Google Clone",
-  },
-  {
     url: "https://hulu-clone-app-ivory.vercel.app/",
     imgSrc: "assets/images/huluClone.png",
     imgAlt: "Hulu Clone",
