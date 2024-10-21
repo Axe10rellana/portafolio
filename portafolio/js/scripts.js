@@ -55,7 +55,7 @@
 /*** Data ***/
 const projects = [
   {
-    url: "https://Axe10rellana.github.io/tvshowsapp/tvshowsapp",
+    url: "https://tv-maze-show-app.netlify.app/#/",
     imgSrc: "assets/images/tvshows.png",
     imgAlt: "Buscador de shows de TV",
   },
